@@ -1,0 +1,43 @@
+class Phone 
+-color (string)
+-brand (string)
+-modelNum (string)
+=call()
+=HangUp()
+=Charge()
+=BootUp()
+=Shutdown()
+
+class House
+-sqft (int)
+-material (string)
+-floors (int)
+-color (string)
+-hasBasement (bool)
+=OpenDoor()
+=CloseDoor()
+
+class Person
+-name (string)
+-age (int)
+-height (double)
+-weight (double)
+-hairColor (string)
+-eyeColor (string)
+=Eat()
+=Sleep()
+=Work()
+=Study()
+
+class Bike
+-color (string)
+-wheelSize (int)
+-brand (string)
+-price (double)
+=Ride()
+=Wheelie()
+
+
+
+
+

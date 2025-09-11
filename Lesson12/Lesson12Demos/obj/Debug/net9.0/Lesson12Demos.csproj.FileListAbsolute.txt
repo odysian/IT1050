@@ -1,0 +1,14 @@
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson12\Lesson12Demos\bin\Debug\net9.0\Lesson12Demos.exe
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson12\Lesson12Demos\bin\Debug\net9.0\Lesson12Demos.deps.json
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson12\Lesson12Demos\bin\Debug\net9.0\Lesson12Demos.runtimeconfig.json
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson12\Lesson12Demos\bin\Debug\net9.0\Lesson12Demos.dll
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson12\Lesson12Demos\bin\Debug\net9.0\Lesson12Demos.pdb
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson12\Lesson12Demos\obj\Debug\net9.0\Lesson12Demos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson12\Lesson12Demos\obj\Debug\net9.0\Lesson12Demos.AssemblyInfoInputs.cache
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson12\Lesson12Demos\obj\Debug\net9.0\Lesson12Demos.AssemblyInfo.cs
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson12\Lesson12Demos\obj\Debug\net9.0\Lesson12Demos.csproj.CoreCompileInputs.cache
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson12\Lesson12Demos\obj\Debug\net9.0\Lesson12Demos.dll
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson12\Lesson12Demos\obj\Debug\net9.0\refint\Lesson12Demos.dll
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson12\Lesson12Demos\obj\Debug\net9.0\Lesson12Demos.pdb
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson12\Lesson12Demos\obj\Debug\net9.0\Lesson12Demos.genruntimeconfig.cache
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson12\Lesson12Demos\obj\Debug\net9.0\ref\Lesson12Demos.dll

@@ -1,0 +1,42 @@
+ParkingCalculator_Program.cs
+
+using System;
+class Program
+{
+  public static double CalculateParkingCost(int hours)  
+  {
+    
+    double totalCost = 0; // 2$/3hrs, .50c per hour after 3, max of $10 
+    
+    if (hours <=3)
+    {
+        totalCost = 2;
+    }
+    else totalCost = 2 + (.5 * (hours-3));
+    
+    if (totalCost > 10) 
+    {
+        totalCost = 10; //max price
+    }
+    
+    return totalCost;
+    
+  }
+  
+  static void Main() 
+  {
+    int numCustomers = 0;
+    
+    Console.WriteLine("How many customers?: "); // input for # of customers
+    numCustomers = Convert.ToInt32(Console.ReadLine()); 
+    
+    for (int i=1; i<=numCustomers; i++) // loop calling function to calc totalCost
+    {
+        Console.WriteLine("How many hours parked?: ");
+        int hours = Convert.ToInt32(Console.ReadLine());
+        
+        double totalCost = CalculateParkingCost(hours);
+        Console.WriteLine("Total parking cost: $" + totalCost);
+    }
+  }
+}

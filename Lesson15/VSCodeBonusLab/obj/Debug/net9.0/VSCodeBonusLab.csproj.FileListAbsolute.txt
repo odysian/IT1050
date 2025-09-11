@@ -1,0 +1,14 @@
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson15\VSCodeBonusLab\obj\Debug\net9.0\VSCodeBonusLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson15\VSCodeBonusLab\obj\Debug\net9.0\VSCodeBonusLab.AssemblyInfoInputs.cache
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson15\VSCodeBonusLab\obj\Debug\net9.0\VSCodeBonusLab.AssemblyInfo.cs
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson15\VSCodeBonusLab\obj\Debug\net9.0\VSCodeBonusLab.csproj.CoreCompileInputs.cache
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson15\VSCodeBonusLab\bin\Debug\net9.0\VSCodeBonusLab.exe
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson15\VSCodeBonusLab\bin\Debug\net9.0\VSCodeBonusLab.deps.json
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson15\VSCodeBonusLab\bin\Debug\net9.0\VSCodeBonusLab.runtimeconfig.json
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson15\VSCodeBonusLab\bin\Debug\net9.0\VSCodeBonusLab.dll
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson15\VSCodeBonusLab\bin\Debug\net9.0\VSCodeBonusLab.pdb
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson15\VSCodeBonusLab\obj\Debug\net9.0\VSCodeBonusLab.dll
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson15\VSCodeBonusLab\obj\Debug\net9.0\refint\VSCodeBonusLab.dll
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson15\VSCodeBonusLab\obj\Debug\net9.0\VSCodeBonusLab.pdb
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson15\VSCodeBonusLab\obj\Debug\net9.0\VSCodeBonusLab.genruntimeconfig.cache
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson15\VSCodeBonusLab\obj\Debug\net9.0\ref\VSCodeBonusLab.dll

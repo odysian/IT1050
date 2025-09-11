@@ -1,0 +1,14 @@
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson4\Lesson4Code\Lesson4Code\bin\Debug\net9.0\Lesson4Code.exe
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson4\Lesson4Code\Lesson4Code\bin\Debug\net9.0\Lesson4Code.deps.json
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson4\Lesson4Code\Lesson4Code\bin\Debug\net9.0\Lesson4Code.runtimeconfig.json
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson4\Lesson4Code\Lesson4Code\bin\Debug\net9.0\Lesson4Code.dll
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson4\Lesson4Code\Lesson4Code\bin\Debug\net9.0\Lesson4Code.pdb
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson4\Lesson4Code\Lesson4Code\obj\Debug\net9.0\Lesson4Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson4\Lesson4Code\Lesson4Code\obj\Debug\net9.0\Lesson4Code.AssemblyInfoInputs.cache
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson4\Lesson4Code\Lesson4Code\obj\Debug\net9.0\Lesson4Code.AssemblyInfo.cs
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson4\Lesson4Code\Lesson4Code\obj\Debug\net9.0\Lesson4Code.csproj.CoreCompileInputs.cache
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson4\Lesson4Code\Lesson4Code\obj\Debug\net9.0\Lesson4Code.dll
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson4\Lesson4Code\Lesson4Code\obj\Debug\net9.0\refint\Lesson4Code.dll
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson4\Lesson4Code\Lesson4Code\obj\Debug\net9.0\Lesson4Code.pdb
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson4\Lesson4Code\Lesson4Code\obj\Debug\net9.0\Lesson4Code.genruntimeconfig.cache
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson4\Lesson4Code\Lesson4Code\obj\Debug\net9.0\ref\Lesson4Code.dll

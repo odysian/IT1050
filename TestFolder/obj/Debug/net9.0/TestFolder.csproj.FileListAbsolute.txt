@@ -1,0 +1,14 @@
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\TestFolder\bin\Debug\net9.0\TestFolder.exe
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\TestFolder\bin\Debug\net9.0\TestFolder.deps.json
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\TestFolder\bin\Debug\net9.0\TestFolder.runtimeconfig.json
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\TestFolder\bin\Debug\net9.0\TestFolder.dll
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\TestFolder\bin\Debug\net9.0\TestFolder.pdb
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\TestFolder\obj\Debug\net9.0\TestFolder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\TestFolder\obj\Debug\net9.0\TestFolder.AssemblyInfoInputs.cache
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\TestFolder\obj\Debug\net9.0\TestFolder.AssemblyInfo.cs
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\TestFolder\obj\Debug\net9.0\TestFolder.csproj.CoreCompileInputs.cache
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\TestFolder\obj\Debug\net9.0\TestFolder.dll
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\TestFolder\obj\Debug\net9.0\refint\TestFolder.dll
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\TestFolder\obj\Debug\net9.0\TestFolder.pdb
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\TestFolder\obj\Debug\net9.0\TestFolder.genruntimeconfig.cache
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\TestFolder\obj\Debug\net9.0\ref\TestFolder.dll

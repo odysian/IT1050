@@ -1,0 +1,14 @@
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyLabTest\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.exe
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyLabTest\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.deps.json
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyLabTest\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.runtimeconfig.json
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyLabTest\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.dll
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyLabTest\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.pdb
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyLabTest\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyLabTest\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyLabTest\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyLabTest\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyLabTest\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.dll
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyLabTest\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyLabTest\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyLabTest\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyLabTest\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll

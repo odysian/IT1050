@@ -1,0 +1,145 @@
+EmployeeLab2Files2
+
+using System;
+class Program
+{
+  static void Main() {
+    
+    Console.WriteLine();
+    
+    // Test Case 1 - Employees 1 & 2
+    Console.WriteLine("Test Case 1 - Employees 1 & 2");
+    Console.WriteLine();
+    Console.WriteLine("Employee #1");
+    Employee e1 = new Employee();
+    e1.Intro();
+
+    Console.WriteLine();
+    Console.WriteLine("Employee #2");
+    Employee e2 = new Employee("Robert", "Downey", "12321", 12);
+    e2.YearlySalary = 100;
+    e2.Intro();
+    
+    // Test Case 2 - Employee #3
+    Console.WriteLine("Test Case 2 - Employee 3");
+    Console.WriteLine();
+    Console.WriteLine("Employee #3 Before");
+    Employee e3 = new Employee("John", "Smith", "S0089", 38);
+    e3.YearlySalary = 50000;
+    e3.Intro();
+    Console.WriteLine();
+    Console.WriteLine("Employee #3 After");
+    e3.IncreaseSalary(-.02);
+    e3.RemoveEmployee();
+    e3.Intro();
+    
+    // Test Case 3 - Employee #4
+    Console.WriteLine("Test Case 3 - Employee 4");
+    Console.WriteLine();
+    Console.WriteLine("Employee #4 Before");
+    Employee e4 = new Employee("Maria", "Lambert", "S0100", 26);
+    e4.YearlySalary = 80000;
+    e4.IncreaseSalary(.07);
+    e4.Intro();
+    Console.WriteLine();
+    Console.WriteLine("Employee #4 After");
+    e4.RemoveEmployee();
+    e4.Intro();
+    e4.RemoveEmployee();
+    
+  }
+}
+
+-----------------------------
+
+using System;
+class Employee {
+    
+    private int age;
+    private double yearlySalary;
+
+    public string FirstName {get; set;}
+    public string LastName {get; set;}
+    public string Id {get; set;}
+    public string EmploymentStatus {get; set;}
+    
+    public int Age
+    {
+        get{ return age; }
+        set{ 
+            if (value >= 18)
+                age = value;
+            else
+                Console.WriteLine("Age cannot be less than 18");
+        }
+    }
+    
+    public double YearlySalary
+    {
+        get{ return yearlySalary;}
+        set{ 
+            if (value >= 1000)
+                yearlySalary = value;
+            else
+                Console.WriteLine("Yearly salary cannot be less than $1000");
+        }
+    }
+    public Employee()
+    {
+        FirstName = "Unknown";
+        LastName = "Unknown";
+        Id = "Unknown";
+        Age = 0;
+        YearlySalary = 0;
+        EmploymentStatus = "Active";
+    }
+    
+    public Employee(string e_fname, string e_lname, string e_id, int e_age)
+    {
+        FirstName = e_fname;
+        LastName = e_lname;
+        Id = e_id;
+        Age = e_age;
+        EmploymentStatus = "Active";
+        
+    }
+    
+    public void Intro()
+    {
+        Console.WriteLine("Employee Details: ");
+        Console.WriteLine("First name: " + FirstName);
+        Console.WriteLine("Last name: " + LastName);
+        Console.WriteLine("id: " + Id);
+        Console.WriteLine("Age: " + Age);
+        Console.WriteLine("Yearly Salary: $" + YearlySalary);
+        Console.WriteLine("Employment Status: " + EmploymentStatus);
+    }
+    
+    public double IncreaseSalary(double percent)
+    {
+        if (percent >= 0)
+        {
+            Console.WriteLine("Percentage is valid");
+            YearlySalary = YearlySalary + (YearlySalary * percent);
+            return YearlySalary;
+        }    
+        else
+        {
+            Console.WriteLine("Percentage is invalid");
+            return YearlySalary;
+        }
+    }
+    
+    public void RemoveEmployee()
+    {
+        if (EmploymentStatus == "Inactive")
+        {
+            Console.WriteLine("Employee already inactive");
+        }
+        else
+        {
+            EmploymentStatus = "Inactive";
+            Console.WriteLine("Employee Removed");
+        }
+    }
+}

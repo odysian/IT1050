@@ -1,0 +1,14 @@
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\MiniExam\MiniExamCode\obj\Debug\net9.0\MiniExamCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\MiniExam\MiniExamCode\obj\Debug\net9.0\MiniExamCode.AssemblyInfoInputs.cache
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\MiniExam\MiniExamCode\obj\Debug\net9.0\MiniExamCode.AssemblyInfo.cs
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\MiniExam\MiniExamCode\obj\Debug\net9.0\MiniExamCode.csproj.CoreCompileInputs.cache
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\MiniExam\MiniExamCode\bin\Debug\net9.0\MiniExamCode.exe
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\MiniExam\MiniExamCode\bin\Debug\net9.0\MiniExamCode.deps.json
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\MiniExam\MiniExamCode\bin\Debug\net9.0\MiniExamCode.runtimeconfig.json
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\MiniExam\MiniExamCode\bin\Debug\net9.0\MiniExamCode.dll
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\MiniExam\MiniExamCode\bin\Debug\net9.0\MiniExamCode.pdb
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\MiniExam\MiniExamCode\obj\Debug\net9.0\MiniExamCode.dll
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\MiniExam\MiniExamCode\obj\Debug\net9.0\refint\MiniExamCode.dll
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\MiniExam\MiniExamCode\obj\Debug\net9.0\MiniExamCode.pdb
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\MiniExam\MiniExamCode\obj\Debug\net9.0\MiniExamCode.genruntimeconfig.cache
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\MiniExam\MiniExamCode\obj\Debug\net9.0\ref\MiniExamCode.dll

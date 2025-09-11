@@ -1,0 +1,14 @@
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyProject\FacultyProject\bin\Debug\net9.0\FacultyProject.exe
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyProject\FacultyProject\bin\Debug\net9.0\FacultyProject.deps.json
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyProject\FacultyProject\bin\Debug\net9.0\FacultyProject.runtimeconfig.json
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyProject\FacultyProject\bin\Debug\net9.0\FacultyProject.dll
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyProject\FacultyProject\bin\Debug\net9.0\FacultyProject.pdb
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyProject\FacultyProject\obj\Debug\net9.0\FacultyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyProject\FacultyProject\obj\Debug\net9.0\FacultyProject.AssemblyInfoInputs.cache
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyProject\FacultyProject\obj\Debug\net9.0\FacultyProject.AssemblyInfo.cs
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyProject\FacultyProject\obj\Debug\net9.0\FacultyProject.csproj.CoreCompileInputs.cache
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyProject\FacultyProject\obj\Debug\net9.0\FacultyProject.dll
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyProject\FacultyProject\obj\Debug\net9.0\refint\FacultyProject.dll
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyProject\FacultyProject\obj\Debug\net9.0\FacultyProject.pdb
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyProject\FacultyProject\obj\Debug\net9.0\FacultyProject.genruntimeconfig.cache
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyProject\FacultyProject\obj\Debug\net9.0\ref\FacultyProject.dll

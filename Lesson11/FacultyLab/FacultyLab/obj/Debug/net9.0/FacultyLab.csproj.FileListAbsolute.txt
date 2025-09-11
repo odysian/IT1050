@@ -1,0 +1,14 @@
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyLab\FacultyLab\bin\Debug\net9.0\FacultyLab.exe
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyLab\FacultyLab\bin\Debug\net9.0\FacultyLab.deps.json
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyLab\FacultyLab\bin\Debug\net9.0\FacultyLab.runtimeconfig.json
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyLab\FacultyLab\bin\Debug\net9.0\FacultyLab.dll
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyLab\FacultyLab\bin\Debug\net9.0\FacultyLab.pdb
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyLab\FacultyLab\obj\Debug\net9.0\FacultyLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyLab\FacultyLab\obj\Debug\net9.0\FacultyLab.AssemblyInfoInputs.cache
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyLab\FacultyLab\obj\Debug\net9.0\FacultyLab.AssemblyInfo.cs
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyLab\FacultyLab\obj\Debug\net9.0\FacultyLab.csproj.CoreCompileInputs.cache
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyLab\FacultyLab\obj\Debug\net9.0\FacultyLab.dll
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyLab\FacultyLab\obj\Debug\net9.0\refint\FacultyLab.dll
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyLab\FacultyLab\obj\Debug\net9.0\FacultyLab.pdb
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyLab\FacultyLab\obj\Debug\net9.0\FacultyLab.genruntimeconfig.cache
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyLab\FacultyLab\obj\Debug\net9.0\ref\FacultyLab.dll
