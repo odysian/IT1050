@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\colos\\OneDrive\\Desktop\\School\\fall2025\\IT1050\\Lesson11\\FacultyProject\\FacultyProject\\FacultyProject.csproj",
-      "projectName": "FacultyProject",
-      "projectPath": "C:\\Users\\colos\\OneDrive\\Desktop\\School\\fall2025\\IT1050\\Lesson11\\FacultyProject\\FacultyProject\\FacultyProject.csproj",
+      "projectUniqueName": "C:\\Users\\colos\\OneDrive\\Desktop\\School\\fall2025\\IT1050\\AllPurpose\\AllPurpose\\AllPurpose.csproj",
+      "projectName": "AllPurpose",
+      "projectPath": "C:\\Users\\colos\\OneDrive\\Desktop\\School\\fall2025\\IT1050\\AllPurpose\\AllPurpose\\AllPurpose.csproj",
       "packagesPath": "C:\\Users\\colos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\colos\\OneDrive\\Desktop\\School\\fall2025\\IT1050\\Lesson11\\FacultyProject\\FacultyProject\\obj\\",
+      "outputPath": "C:\\Users\\colos\\OneDrive\\Desktop\\School\\fall2025\\IT1050\\AllPurpose\\AllPurpose\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\colos\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\AllPurpose\AllPurpose\bin\Debug\net9.0\AllPurpose.exe
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\AllPurpose\AllPurpose\bin\Debug\net9.0\AllPurpose.deps.json
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\AllPurpose\AllPurpose\bin\Debug\net9.0\AllPurpose.runtimeconfig.json
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\AllPurpose\AllPurpose\bin\Debug\net9.0\AllPurpose.dll
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\AllPurpose\AllPurpose\bin\Debug\net9.0\AllPurpose.pdb
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\AllPurpose\AllPurpose\obj\Debug\net9.0\AllPurpose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\AllPurpose\AllPurpose\obj\Debug\net9.0\AllPurpose.AssemblyInfoInputs.cache
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\AllPurpose\AllPurpose\obj\Debug\net9.0\AllPurpose.AssemblyInfo.cs
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\AllPurpose\AllPurpose\obj\Debug\net9.0\AllPurpose.csproj.CoreCompileInputs.cache
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\AllPurpose\AllPurpose\obj\Debug\net9.0\AllPurpose.sourcelink.json
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\AllPurpose\AllPurpose\obj\Debug\net9.0\AllPurpose.dll
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\AllPurpose\AllPurpose\obj\Debug\net9.0\refint\AllPurpose.dll
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\AllPurpose\AllPurpose\obj\Debug\net9.0\AllPurpose.pdb
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\AllPurpose\AllPurpose\obj\Debug\net9.0\AllPurpose.genruntimeconfig.cache
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\AllPurpose\AllPurpose\obj\Debug\net9.0\ref\AllPurpose.dll

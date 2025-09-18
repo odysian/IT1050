@@ -12,3 +12,4 @@ C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyProject\F
 C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyProject\FacultyProject\obj\Debug\net9.0\FacultyProject.pdb
 C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyProject\FacultyProject\obj\Debug\net9.0\FacultyProject.genruntimeconfig.cache
 C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyProject\FacultyProject\obj\Debug\net9.0\ref\FacultyProject.dll
+C:\Users\colos\OneDrive\Desktop\School\fall2025\IT1050\Lesson11\FacultyProject\FacultyProject\obj\Debug\net9.0\FacultyProject.sourcelink.json
